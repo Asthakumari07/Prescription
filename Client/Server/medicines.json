@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Paracetamol",
+    "serialNumber": 1,
+    "strength": "500mg",
+    "type": "tablet"
+  },
+  {
+    "name": "Ibuprofen",
+    "serialNumber": 2,
+    "strength": "400mg",
+    "type": "tablet"
+  },
+  {
+    "name": "Amoxicillin",
+    "serialNumber": 3,
+    "strength": "250mg",
+    "type": "capsule"
+  },
+  {
+    "name": "Cetirizine",
+    "serialNumber": 4,
+    "strength": "10mg",
+    "type": "tablet"
+  },
+  {
+    "name": "Cough Syrup",
+    "serialNumber": 5,
+    "strength": "100ml",
+    "type": "syrup"
+  },
+  {
+    "name": "Insulin",
+    "serialNumber": 6,
+    "strength": "100 IU/ml",
+    "type": "injection"
+  },
+  {
+    "name": "Clotrimazole",
+    "serialNumber": 7,
+    "strength": "1%",
+    "type": "ointment"
+  }
+]
